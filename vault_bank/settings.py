@@ -26,7 +26,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://vault-bank.onrender.com']
+ALLOWED_HOSTS = ['vault-bank.onrender.com']
 
 
 # Application definition
